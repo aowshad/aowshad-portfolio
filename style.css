@@ -1,0 +1,73 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    margin: 0%;
+
+}
+
+.welcome{
+    font-weight: 800;
+    font-size: 60px;
+    margin-bottom: -3%;
+    color: rgb(255, 255, 255);
+}
+.name{
+    
+    font-weight: 800;
+    color: orange;
+    font-size: 60px;
+    margin-bottom: -3%;
+}
+.himel{
+font-weight: 600;
+font-size: 60px;
+color: rgb(255, 255, 255);
+margin-bottom: -3%;
+}
+.pro{
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+    
+    
+
+}
+.info{
+    font-size: 20px;
+    text-align: justify;
+    margin-right: 20px;
+    color: white;
+    
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 8%;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+.half{
+    width: 50%;
+    padding-top: 3%;
+
+}
+
+.button{
+
+color: white;
+text-decoration: none;
+background-color: orange;
+padding: 6px 12px;
+border-radius: 8px;
+background-image: linear-gradient(#B12D91,#5958E2);
+box-shadow: rgba(50, 50, 93, 0.747) 0px 50px 100px -20px, rgba(0, 0, 0, 0.555) 0px 30px 60px -30px;
+}
+.banner{
+
+    background-image: url(images/banner.jpg);
+    background-repeat: no-repeat;
+
+
+}
