@@ -39,8 +39,9 @@ margin-bottom: -3%;
     color: white;
     
 }
-section{
+.flexible{
     display: flex;
+    
 }
 .half-width{
     width: 50%;
@@ -121,4 +122,18 @@ display: flex;
 }
 .drm{
     color:orange
+}
+.experience{
+    margin-top: -2%;
+    background-image: url(images/section3.jpg);
+    background-repeat: no-repeat;
+    width: 1920px;
+    height: 1080px;
+
+}
+.exp{
+    font-weight: 800;
+    color: orange;
+    text-align: center;
+    padding-top: 5%;
 }
