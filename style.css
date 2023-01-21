@@ -42,6 +42,7 @@ margin-bottom: -3%;
 .flexible{
     display: flex;
     
+    
 }
 .half-width{
     width: 50%;
@@ -117,7 +118,7 @@ display: flex;
     color: white;
 }
 .dream-big{
-    background-image: url(images/bg2.jpg);
+    background-image: url(images/bg22.jpg);
     background-repeat: no-repeat;
 }
 .drm{
@@ -127,8 +128,9 @@ display: flex;
     margin-top: -2%;
     background-image: url(images/section3.jpg);
     background-repeat: no-repeat;
-    width: 1920px;
-    height: 1080px;
+    height: 1000px;
+    padding-top: 10px;
+    
 
 }
 .exp{
@@ -136,4 +138,48 @@ display: flex;
     color: orange;
     text-align: center;
     padding-top: 5%;
+    padding-bottom: 60px;
+    font-size: 60px;
+}
+.junior{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 1px solid rgba(255, 255, 255, 0.45);
+    -webkit-backdrop-filter: blur(4.4px);
+    backdrop-filter: blur(4.4px);
+    border-radius: 16px;
+    background: rgba(255, 255, 255, 0.16);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    
+}
+.glassa{
+    font-weight: 400;
+    font-size: 20px;
+    color: white;
+    text-align: justify;
+    
+}
+.jvisu{
+    color: #27E3C0;
+    text-align: center;
+}
+.svisu{
+    color: #27E3C0;
+    text-align: center;
+}
+.year{
+   
+    font-weight: 600;
+    font-size: 30px;
+    text-align: center;
+    color: #ff930f;
+}
+.copyright{
+    font-size: 18px;
+    color: white;
+    padding-top: 90px;
+    text-align: center;
+    
 }
